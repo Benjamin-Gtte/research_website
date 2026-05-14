@@ -1,7 +1,7 @@
-baseURL = "https://benjamin-gtte.github.io/"
+baseURL = "https://benjamin-georgette.vercel.app/"
+theme = "paper"
 locale = 'en-us'
 title = 'Benjamin GEORGETTE'
-theme = "paper"
 buildFuture = true
 
 [params]
