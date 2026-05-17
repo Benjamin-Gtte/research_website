@@ -4,7 +4,7 @@ authors: "Georgette, B., Dureisseix, D., Gravouil, A."
 journal: "HAL-DUMAS"
 year: 2023
 selected: false
-pdf: "/articles/georgette-2025a_HAL.pdf"
+pdf: "/articles/georgette-2023_masterthesis.pdf"
 
 cite: "Georgette, B. (2023) Intégrateur temporel explicite multi-symplectique à pas de temps variable pour la dynamique non-linéaire : application aux matériaux viscoélastiques. Mécanique des structures [physics.class-ph]. Available at: https://dumas.ccsd.cnrs.fr/dumas-04936580."
 
