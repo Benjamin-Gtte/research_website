@@ -17,3 +17,4 @@ Currently in construction !
 - Chapter 6: Deriving the DGBA bracket structure for unidimensional small strain generalised standard material 
  [$\rightarrow$ Related mindmap](/misc/MindMap-P2-C3.pdf)
 - Chapter 7: Deriving the DGBA bracket structure for tridimensional large strain thermo-visco-elastodynamics [$\rightarrow$ Related mindmap](/misc/MindMap-P2-C4.pdf)
+- Chapter 9 : A geometric integrator for small strains thermo-visco-elastodynamics based on the DGBA bracket structure [$\rightarrow$ Related mindmap](/misc/MindMap-P3-C2.pdf)
